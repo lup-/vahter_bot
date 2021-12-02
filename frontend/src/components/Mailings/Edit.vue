@@ -195,7 +195,7 @@
 
 <script>
     import moment from "moment";
-    import UploadFiles from "@/mixins/UploadFiles";
+    import UploadFiles from "@/mixins/UploadFilesWithTypes";
 
     export default {
         mixins: [UploadFiles],
